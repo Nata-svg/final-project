@@ -1,0 +1,17 @@
+.header a{
+    display: inline;
+margin-left: 40px;
+margin-top: 24px;
+width: 120px;
+text-decoration: none;
+
+}
+
+.main{
+    color: var(--black, #0B0706);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
