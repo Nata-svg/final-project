@@ -10,8 +10,67 @@ text-decoration: none;
 .main{
     color: var(--black, #0B0706);
 font-family: Roboto;
-font-size: 16px;
+font-size: 18px;
 font-style: normal;
-font-weight: 500;
+font-weight: 600;
 line-height: normal;
+}
+
+.bbq{
+    color:#4d547a;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;   
+}
+
+.tbc{
+    width: 170px;
+    height: 55px;
+    margin-top: 12px;
+}
+
+.bgimg{
+    width: 1519px;
+    height: 735px; 
+    margin-top: 24px;
+}
+
+.hold{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.slogan{
+    position: absolute;
+  top: 150px;
+  line-height: 75px;
+  left: 100px;
+    width: 205px;
+    font-size: 64px;
+}
+
+.lol{
+    position: absolute;
+    top: 700px;
+    display: flex; 
+  
+}
+
+.vol{
+margin-left:110px ;
+}
+ 
+.Line{
+margin-left:40px ;
+height: 2px;
+     width: 800px;
+     margin-top: 8px;
+}
+
+
+.trees{
+width: 350px;
 }
