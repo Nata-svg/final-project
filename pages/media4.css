@@ -1,0 +1,937 @@
+@media (max-width: 1495px) {
+
+  
+    .event-container{
+        display: list-item;
+        list-style: none;
+        margin-left: 410px;
+    }
+    
+    
+    .event1{
+        width: 750px;
+    }
+    
+    
+    .event2{
+        margin-top: 32px;
+        width: 750px;
+    }
+    
+    
+    .first{
+        margin-left: 60px;
+    }
+    
+    .say-no{
+        width: 550px;
+    }
+    
+    
+    
+    
+    }
+    
+    
+    @media(max-width:1460px){
+        .news-cont{
+            display: list-item;
+            list-style: none;
+            margin-left: 450px;
+        }
+    
+    
+    .pct{
+        width: 482px;
+        height: 342px;
+      margin-top: 70px;
+    }
+    
+    .gp{
+        width: 452px;
+    }
+    
+    .g{
+        width: 452px;
+    }
+  
+  
+ 
+.background2{ 
+margin-left: 30px;
+}
+
+  .holder2{
+    margin-left: 120px;
+  }
+  
+  .holder{
+    margin-left: 70px;
+  }
+    
+    
+    }
+    
+    
+    
+    
+    
+    @media (max-width: 1403px) {
+      .link-container {
+        margin-left: 400px;
+      }
+    
+ 
+  
+    
+    }
+    
+    
+    
+    
+    @media (max-width: 1265px) {
+      .link-container {
+        margin-left: 300px;
+      }
+    
+   
+    
+    
+    .line4{
+        width: 550px;
+    }
+    
+    
+    .news-cont{
+        margin-left: 400px;
+    }
+    
+    
+    .event-container{
+        margin-left: 310px;
+    }
+    
+    
+    .line4d{
+        width: 650px;
+    }
+    
+    .background{
+      display: flex;
+      flex-direction: column;
+    height: 1100px;
+    }
+
+.background2{
+  margin-top: 30px;
+  margin-left: 150px;
+  width: 800px;
+  height: 706px;
+}
+
+.holder2{
+  margin-left: 300px;
+}
+
+.pct1{
+  width:220px;
+  height: 188px;
+  margin-left: 30px;
+}
+
+.lil-title{
+  width: 450px;
+}
+
+.paragraph{
+  width: 450px;
+}
+
+    }
+    
+    
+    
+    @media (max-width: 1165px) {
+      .link-container {
+        margin-left: 250px;
+      }
+    
+      .tbc {
+        margin-left: 90px;
+      }
+    
+     
+    
+    
+    
+    .news-cont{
+        margin-left: 350px;
+    }
+    
+    
+    
+    .event-container{
+        margin-left: 210px;
+    }
+    
+    
+    
+    .tibici{
+        margin-left: 40px;
+    }
+    
+    .bigger-white{
+        font-size: 28px;
+        width: 300px;
+          margin-top: 110px;
+    }
+    
+    
+    .textarea{
+        width: 300px;
+        height: 55px;
+        font-size: 14px;
+      
+    }
+    
+    
+    .button{
+        width: 100px;
+        height: 55px; 
+        font-size: 14px;
+        padding: 14px 15px;
+        margin-top: 28px;
+    }
+    
+  
+  
+    
+  
+  .eth{
+      margin-left: 80px;
+      width: 800px;
+      height: 400px;
+    }
+    
+    }
+    
+    @media (max-width: 1075px) {
+      .link-container {
+        margin-left: 180px;
+        margin-right: 80px;
+      }
+    
+      .tbc {
+        margin-left: 70px;
+      }
+   
+    
+    
+    
+      .line4{
+        width: 450px;
+    
+    }
+    
+    .newsa{
+        font-size: 32px;
+    }
+    
+    
+    .news-cont{
+        margin-left: 270px;
+    }
+    
+    
+    .event-container{
+        margin-left: 110px;
+    }
+    
+    
+    .line4d{
+        width: 500px;
+    }
+  
+    
+    }
+    
+    @media (max-width: 975px) {
+      .link-container {
+        margin-left: 140px;
+        margin-right: 50px;
+      }
+    
+      .main {
+        font-size: 15px;
+      }
+    
+      .bbq {
+        font-size: 15px;
+      }
+    
+      .tbc {
+        margin-left: 40px;
+        width: 110px;
+        height: 40px;
+      }
+    
+    
+    .newsa{
+        font-size: 28px;
+        line-height: 28px;
+    }
+    
+    .dude{
+        margin-left: 80px;
+    }
+    
+    .line4{
+        width: 400px;
+    }
+    
+    
+    .news-cont{
+        margin-left: 240px;
+    }
+    
+    
+    .event1{
+        width: 628px;
+    }
+    
+    
+    
+    
+    .event2{
+        width: 628px;
+    }
+    
+    
+    .say-no{
+        width: 370px;
+    }
+    
+    .line4d{
+        width: 350px;
+    }
+    
+    
+    .footer-container{
+      display: flex;
+      flex-direction: column;
+      margin-left: 290px;
+    }
+    
+    
+    .tibici{
+      width:200px;
+      height:70px;
+      margin-left:-150px;
+    }
+    
+    .lil-white{
+      font-size: 24px;
+    }
+    
+    
+    .lil-white1{
+      font-size: 24px;
+    }
+    
+    
+    .big-white{
+      font-size: 28px;
+    }
+
+
+
+    .background{
+      display: flex;
+      flex-direction: column;
+    height: 900px;
+    }
+
+.background2{
+  margin-top: 30px;
+  margin-left: 150px;
+  width: 500px;
+  height: 506px;
+}
+
+.holder2{
+  margin-left: 200px;
+}
+
+.pct1{
+  width:150px;
+  height: 118px;
+  margin-left: 10px;
+}
+
+.lil-title{
+  width: 250px;
+  font-size: 17px;
+}
+
+.paragraph{
+  width: 250px;
+  font-size: 13px;
+}
+
+.lil-container{
+  margin-top: 25px;
+}
+
+.big-title{
+  font-size: 30px;
+  width: 350px;
+}
+
+.lil-paragraph{
+  font-size: 13px;
+  width: 350px;
+}
+
+
+    
+ 
+    
+    }
+    
+    @media (max-width: 800px) {
+      .link-container {
+        margin-left: 50px;
+        margin-right: 25px;
+      }
+    
+      .main {
+        font-size: 15px;
+      }
+    
+      .bbq {
+        font-size: 15px;
+      }
+    
+      .tbc {
+        margin-left: 20px;
+        width: 110px;
+        height: 40px;
+      }
+    
+    .newsa{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    
+    .dude{
+        margin-left: 60px;
+    }
+    
+    
+    .line4{
+        width: 300px;
+    }
+    
+    .pct{
+        width: 302px;
+        height: 192px;
+    }
+    
+    .news-cont{
+        margin-left: 180px;
+    }
+    
+    
+    .gp{
+        width: 302px;
+    }
+    
+    .g{
+        width: 302px;
+    }
+    
+    .events{
+    font-size: 30px;
+    line-height: 28px;
+    }
+    
+    .line4d{
+        width: 250px;
+        margin-top: 17px;
+    }
+    
+    .twenty-three{
+        font-size: 24px;
+    }
+    
+    .september{
+        font-size: 14px;
+    }
+    
+    .next{
+        font-size: 14px;
+    }
+    
+    .line5{
+        width: 34px;
+    }
+    
+    .say-no{
+        font-size: 17px;
+        width: 270px;
+        line-height: 22px;
+    }
+    
+    .event1{
+        width: 440px;
+        height: 140px;
+    }
+    
+    .dudes{
+        margin-top: 20px;
+    }
+    
+    .first{
+        margin-top: 22px;
+    }
+    
+    .event2{
+        width: 440px;
+        height: 140px; 
+    }
+    
+    
+    .event-container{
+        margin-left: 60px;
+    }
+    
+    .our-events{
+        margin-left: 60px;
+    }
+    
+    
+ 
+  
+    }
+    
+    
+  
+    
+    
+    @media (max-width: 700px) {
+      .link-container {
+        margin-left: 50px;
+        margin-right: 25px;
+      }
+    
+      .main {
+        font-size: 15px;
+      }
+    
+      .bbq {
+        font-size: 15px;
+      }
+    
+      .tbc {
+        margin-left: 20px;
+        width: 110px;
+        height: 40px;
+      }
+    
+      
+    
+    
+      .newsa{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    
+    .dude{
+        margin-left: 40px;
+    }
+    
+    
+    .line4{
+        width: 200px;
+    }
+    
+    .news-cont{
+        margin-left: 90px;
+    }
+    
+    .footer-container{
+      margin-left: 190px;
+    }
+    
+ 
+
+    .background{
+      display: flex;
+      flex-direction: column;
+    height: 900px;
+    }
+
+.background2{
+  margin-top: 30px;
+  margin-left: 150px;
+  width: 400px;
+  height: 430px;
+}
+
+.holder2{
+  margin-left: 200px;
+}
+
+.pct1{
+  width:150px;
+  height: 118px;
+  margin-top: 10px;
+}
+
+.lil-title{
+  width: 190px;
+  font-size: 14px;
+}
+
+.paragraph{
+  width: 190px;
+  font-size: 10px;
+}
+
+.lil-container{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.big-title{
+  font-size: 30px;
+  width: 350px;
+}
+
+.lil-paragraph{
+  font-size: 13px;
+  width: 350px;
+}
+    
+    }
+    
+    @media (max-width: 605px) {
+      .link-container {
+        margin-left: 40px;
+        margin-right: 10px;
+      }
+    
+      .main {
+        font-size: 13px;
+      }
+    
+      .bbq {
+        font-size: 13px;
+      }
+    
+      .tbc {
+        margin-left: 20px;
+        width: 90px;
+        height: 30px;
+      }
+    
+    
+    .footer-container{
+      margin-left: 90px;
+    }
+    
+    .lil-white{
+      font-size: 16px;
+    }
+    
+    
+    .lil-white1{
+      font-size: 16px;
+    }
+    
+    
+    .big-white{
+      font-size: 18px;
+    }
+    
+    .tibici{
+      margin-left: -10px;
+    }
+    
+
+    .background{
+      display: flex;
+      flex-direction: column;
+    height: 900px;
+    }
+
+.background2{
+  margin-top: 30px;
+  margin-left: 70px;
+  width: 400px;
+  height: 430px;
+}
+
+.holder2{
+  margin-left: 100px;
+}
+
+.pct1{
+  width:150px;
+  height: 118px;
+  margin-top: 10px;
+}
+
+.lil-title{
+  width: 190px;
+  font-size: 14px;
+}
+
+.paragraph{
+  width: 190px;
+  font-size: 10px;
+}
+
+.lil-container{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.big-title{
+  font-size: 30px;
+  width: 350px;
+}
+
+.lil-paragraph{
+  font-size: 13px;
+  width: 350px;
+}
+.holder{
+  margin-left: 40px;
+}
+.see-more{
+  font-size: 13px;
+  padding: 13px 13px;
+}
+    
+    }
+    
+    
+    
+    @media (max-width: 515px) {
+      .link-container {
+        margin-left: 50px;
+        margin-right: 10px;
+      }
+    
+      .main {
+        font-size: 11px;
+      }
+    
+      .bbq {
+        font-size: 11px;
+      }
+    
+      .tbc {
+        margin-left: 20px;
+        width: 90px;
+        height: 30px;
+      }
+   
+      .events{
+        font-size: 20px;
+        line-height: 28px;
+        }
+        
+        .line4d{
+            width: 180px;
+            margin-top: 17px;
+        }
+        
+       
+        .twenty-three{
+            font-size: 18px;
+        }
+        
+        .september{
+            font-size: 10px;
+        }
+        
+        .next{
+            font-size: 10px;
+        }
+        
+        .line5{
+            width: 30px;
+            margin-top: 7px;
+        }
+        
+        .say-no{
+            font-size: 14px;
+            width: 220px;
+            line-height: 20px;
+        }
+        
+        .event1{
+            width: 340px;
+            height: 120px;
+        }
+        
+        .dudes{
+            margin-top: 20px;
+        }
+        
+        .first{
+            margin-top: 22px;
+            margin-left: 20px;
+        }
+        
+        .event2{
+            width: 340px;
+            height: 120px; 
+        }
+        
+        
+        .event-container{
+            margin-left: 30px;
+        }
+        
+        .our-events{
+            margin-left: 30px;
+        }
+    
+    
+    
+    .bigger-white{
+      font-size: 20px;
+    }
+    
+    .textarea{
+      width: 228px;
+      height: 32px;
+      font-size: 12px;
+    }
+    
+    .button{
+      width: 68px;
+      height: 32px;
+    font-size: 10px;
+    padding: 5px 5px;
+    }
+    
+
+    .background{
+      display: flex;
+      flex-direction: column;
+    height: 800px;
+    }
+
+.background2{
+  margin-top: 30px;
+  margin-left: 40px;
+  width: 400px;
+  height: 430px;
+}
+
+.holder2{
+  margin-left: 70px;
+}
+
+.pct1{
+  width:150px;
+  height: 118px;
+  margin-top: 10px;
+}
+
+.lil-title{
+  width: 190px;
+  font-size: 14px;
+}
+
+.paragraph{
+  width: 190px;
+  font-size: 10px;
+}
+
+.lil-container{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.big-title{
+  font-size: 30px;
+  width: 350px;
+}
+
+.lil-paragraph{
+  font-size: 12px;
+  width: auto;
+}
+.holder{
+  margin-left: 20px;
+}
+
+.see-more{
+  font-size: 11px;
+  padding: 11px 11px;
+}
+  
+    
+    }
+    
+  
+  
+  
+  
+    
+    @media (max-width: 480px) {
+      .link-container {
+        margin-left: 40px;
+        margin-right: 15px;
+      }
+    
+      .main {
+        font-size: 9px;
+      }
+    
+      .bbq {
+        font-size: 9px;
+      }
+    
+      .tbc {
+        margin-left: 20px;
+        width: 90px;
+        height: 30px;
+      }
+    
+    
+      .newsa{
+        font-size: 18px;
+        line-height: 28px;
+    }
+    
+    .dude{
+        margin-left: 30px;
+    }
+    
+    
+    .line4{
+        width: 110px;
+    }
+    
+    .news-cont{
+        margin-left: 50px;
+    }
+    
+      
+   
+.background2{
+  margin-left: 20px;
+}
+
+.holder2{
+  margin-left: 40px;
+}
+  
+    }
+    
